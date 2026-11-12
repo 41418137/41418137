@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+    background-color: #FFFACD;
+    text-align: center;
+    font-family: "標楷體", "DFKai-SB", serif;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    color: red;
+    font-size: 36pt;
+}
+
+p {
+    color: brown;
+    font-size: 24pt;
+    line-height: 1.8;
+}
+
+img {
+    width: 200px;
+    border: 3px solid #5C3317;
+    border-radius: 20px;
+    display: block;
+    margin: 20px auto;
+}
